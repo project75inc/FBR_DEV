@@ -1,5 +1,5 @@
 # FBR_DEV
-Creador con amor por Dowen. Projecto iniciado el 30/9/2018. Actualmente el uso es privado. 
+Creador con amor por Dowen. Proyecto iniciado el 30/9/2018. Actualmente el uso es privado. 
 Project Prototype FBR75. Este proyecto se basa en Fortnite Battle Royale.
 
 # CARACTERISTICAS:
